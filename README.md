@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark G Nourallah
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently doing my Masters in Software Engineering
-- 💞️ I’m looking to collaborate on innovative projects that change the facilitate complex tasks
+- 💞️ I’m looking to collaborate on innovative projects that make complex tasks feel intuitive
 - 📫 You can reach me at nourallahmark@gmail.com
 
 <!---
